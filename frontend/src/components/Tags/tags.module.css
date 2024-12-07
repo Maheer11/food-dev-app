@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container a{
+    background-color: whitesmoke;
+    padding: 0.3rem 1rem;
+    margin: 0.2rem 0.15;
+    border-radius: 10rem;
+    font-weight: 600;
+    color: orangered;
+}
